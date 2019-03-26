@@ -1,4 +1,6 @@
 # dallasmcgroarty.github.io
-testing git/web dev
+testing git / learning web development
 
 practicing html and css
+
+learning javascript
